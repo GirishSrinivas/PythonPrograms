@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 import nltk, random
 from nltk.corpus import movie_reviews
 from nltk.corpus import wordnet as wn

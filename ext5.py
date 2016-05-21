@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 def stringFunction(string):
 	print
 	print "Input string is: %s" %string

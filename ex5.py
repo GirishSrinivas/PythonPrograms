@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 ten = 102
 x = "There are '%c' planets in our solar system" % ten
 print x

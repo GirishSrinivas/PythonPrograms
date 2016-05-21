@@ -1,6 +1,5 @@
 """
 AUTHORS: GIRISH SRINIVAS
-         VAISHNAVI PADAM
 """
 
 import nltk

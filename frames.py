@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 import nltk
 from nltk.corpus import wordnet as wn
 from nltk.corpus import framenet as fn

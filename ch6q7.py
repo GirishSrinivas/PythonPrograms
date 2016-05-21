@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 import nltk
 
 posts = nltk.corpus.nps_chat.xml_posts()[:10000]

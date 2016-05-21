@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 from __future__ import division
 import nltk, re, pprint
 from nltk.corpus import brown

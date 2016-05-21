@@ -1,3 +1,5 @@
+# AUTHOR: GIRISH SRINIVAS
+
 import nltk, re
 from nltk.corpus import brown as bn
 
@@ -8,7 +10,7 @@ def question2(category):
 	#print
 	words = bn.tagged_words(categories = category)
 	wordlist = bn.words(categories = category)
-	"""words_JJ = set(sorted([(word, tag) for (word, tag) in words if tag == 'JJ']))
+	words_JJ = set(sorted([(word, tag) for (word, tag) in words if tag == 'JJ']))
 	print len(words_JJ)
 	print
 	print
@@ -24,7 +26,7 @@ def question2(category):
 	female_pattern = r'\bshe\b|\bher\b|\bhers\b|\bherself\b'
 	male_pronouns = len([w for w in wordlist if re.search(male_pattern, w.lower())])
 	female_pronouns = len([w for w in wordlist if re.search(female_pattern, w.lower())])
-	print "Male : Female is -> %d : %d" %(male_pronouns, female_pronouns)"""
+	print "Male : Female is -> %d : %d" %(male_pronouns, female_pronouns)
 	print
 	print
 	sent = ""

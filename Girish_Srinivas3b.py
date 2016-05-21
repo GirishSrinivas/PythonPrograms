@@ -1,6 +1,5 @@
 """
 AUTHORS: GIRISH SRINIVAS
-         VAISHNAVI PADAM
 """
 #nltk chapter 3b assignment
 

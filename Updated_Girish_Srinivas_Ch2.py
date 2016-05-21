@@ -1,5 +1,4 @@
 """AUTHORS: GIRISH SRINIVAS
-            VAISHNAVI PADAM
 """
 #nltk Chapter-2 Assignment
 

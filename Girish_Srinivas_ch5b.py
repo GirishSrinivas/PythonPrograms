@@ -1,7 +1,6 @@
 from __future__ import division
 """
 AUTHORS: GIRISH SRINIVAS
-         VAISHNAVI PADAM
 """
 import nltk, re, pprint
 
